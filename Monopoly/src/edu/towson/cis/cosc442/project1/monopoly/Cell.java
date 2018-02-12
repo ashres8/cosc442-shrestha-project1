@@ -37,7 +37,7 @@ public abstract class Cell implements IOwnable {
 		return available;
 	}
 	
-	public abstract void playAction();
+	public abstract void playAction(); 
 
 	/* (non-Javadoc)
 	 * @see edu.towson.cis.cosc442.project1.monopoly.IOwnable#setAvailable(boolean)
